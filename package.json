@@ -1,0 +1,12 @@
+{
+  "name": "browserify-react",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "browserify": "6.2.0",
+    "react": "^0.13.1",
+    "react-intl": "^1.2.0",
+    "reactify": "^1.1.0"
+  }
+}
